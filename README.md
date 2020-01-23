@@ -1,2 +1,4 @@
-# Numpy-Tutorial
-Numpy Tutorial to be referred before Beginner's session
+# Index
+
+- Python Workshop Day 1
+- Python Workshop Day 2
